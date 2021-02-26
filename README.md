@@ -1,4 +1,3 @@
-# Linked_Circular_Queue
 # Lineaar Queue Video  
 [![](http://img.youtube.com/vi/lygAQLJwdKY/0.jpg)](http://www.youtube.com/watch?v=lygAQLJwdKY "")
 # Circular Queue Video  
